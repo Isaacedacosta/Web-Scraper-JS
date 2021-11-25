@@ -1,5 +1,7 @@
 # Web-Scraper-JS
 
+Executar via NodeJS pelo console de comando.
+
 Projeto de web-scraper (coletor de dados de paginas web) criado em JavaScript utilizando Node.JS e as bibliotecas Express, Axios e Cheerio.
 
 O projeto esta pré-definido para buscar no site https://www.uol.com.br/esporte/ as thumbnails e alimentar uma Array com o titulo e o link de cada materia encontrada.
